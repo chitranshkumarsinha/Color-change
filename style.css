@@ -1,0 +1,43 @@
+*{
+    /* margin: 0px;
+    padding:0px; */
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+h3{
+    padding-top: 5px;
+    padding-bottom: 2px;
+    display: flex;
+    justify-content:center;
+}
+.box{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.color{
+   height:100px;
+   width: 100px;
+   border: 2px solid black;
+   margin: 5px;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color:green;
+}
+#purple{
+    background-color: purple;
+}
+.dabba{
+    margin-top: 50px;
+    display: flex;
+    justify-content:center;
+    font-size: large;
+}
